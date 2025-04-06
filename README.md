@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hey%20everyone%20👋&fontSize=90)
 
+## 🙋 About Me
+
 ```yaml
 name: Aaron Gertler
 locatedIn: Nashville, TN
