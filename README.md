@@ -2,14 +2,14 @@
 
 ## 🙋 About Me
 
-```yaml
-name: Aaron Gertler
-locatedIn: Nashville, TN
+```json
+name: "Aaron Gertler"
+locatedIn: "Nashville, TN"
 education:
   [
-    Nashville Software School: UI/UX Design & Frontend Development,
-    The University of Alabama: MA in Advertising & Public Relations,
-    The University of Alabama: BA in Visual Communication
+    Nashville Software School: "UI/UX Design & Frontend Development",
+    The University of Alabama: "MA in Advertising & Public Relations",
+    The University of Alabama: "BA in Visual Communication"
   ]
 ```
 
