@@ -3,14 +3,16 @@
 ## 🙋 About Me
 
 ```jsx
-name: "Aaron Gertler"
-locatedIn: "Nashville, TN"
-education:
-  [
-    Nashville Software School: "UI/UX Design & Frontend Development",
-    The University of Alabama: "MA in Advertising & Public Relations",
-    The University of Alabama: "BA in Visual Communication"
-  ]
+const aaron = {
+  fullName: "Aaron Gertler",
+  education: {
+    bachelors: "Visual Communication",
+    masters: "Advertising & Public Relations",
+    bootcamp: "UI/UX Design & Frontend Development"
+  },
+  code: ["JavaScript", "TypeScript", "HTML5", "CSS3", "SASS"],
+  tools: ["VSCode", "React", "Node", "Vite", "Storybook", "Docker"]
+}
 ```
 
 ## 🛠️ Tools & Skills I've Used
