@@ -2,7 +2,7 @@
 
 ## Design Tools I Use
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="48" height="48" />
 
 ## Development Tools I Use
 
