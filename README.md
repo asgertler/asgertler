@@ -5,9 +5,9 @@ name: Aaron Gertler
 locatedIn: Nashville, TN
 education:
   [
-    "UI/UX Design & Frontend Development",
-    "MA in Advertising & Public Relations",
-    "BA in Visual Communication",
+    Nashville Software School: UI/UX Design & Frontend Development,
+    The University of Alabama: MA in Advertising & Public Relations,
+    The University of Alabama: BA in Visual Communication
   ]
 ```
 
