@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hey%20everyone%20👋&fontSize=90)
 
-## Hi there 👋
+## Design Tools I Use
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+## Development Tools I Use
 
 <!--
 **asgertler/asgertler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
