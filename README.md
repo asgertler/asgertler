@@ -1,38 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hey%20everyone%20👋&fontSize=90)
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Aaron Gertler
+locatedIn: Nashville, TN
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "UI/UX Design & Frontend Development",
+    "MA in Advertising & Public Relations",
+    "BA in Visual Communication",
   ]
-company: Soulber
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
 ## 🛠️ Tools & Skills I've Used
