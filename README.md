@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-```json
+```jsx
 name: "Aaron Gertler"
 locatedIn: "Nashville, TN"
 education:
