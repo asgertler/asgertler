@@ -36,6 +36,8 @@ education:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="36" height="36" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asgertler)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **asgertler/asgertler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
